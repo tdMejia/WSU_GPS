@@ -1,0 +1,50 @@
+# WSU Wayfinder (hackathon prototype)
+
+React + Vite app that helps students find buildings and rooms at Wayne State University.
+Covers three showcase buildings: **FAB**, **UGL** and the **Student Center**.
+
+```bash
+npm install
+npm run dev      # open the printed localhost URL
+npm test         # logic smoke tests (search, routing, reminder colors)
+npm run build    # production build in /dist
+```
+
+## Features
+- Login + greeting with a homework summary (demo login, name only)
+- Search icon (top right): nicknames, room numbers, and categories ("study", "restroom", "event")
+- Floor plans (SVG) with a drawn route and written step-by-step directions
+- Step-free (elevator only) route option
+- Notes + Reminders tab: add homework, due date, optional room; red / yellow / green status
+- "I've arrived" button pops up the reminders linked to that room
+- Color-blind mode (settings and login): blue / orange / yellow palette, different shape + border style per status, text labels always shown
+
+## Important: the building data is placeholder
+`src/data/buildings.js` uses **made-up sample layouts**, not real WSU floor plans. Addresses and
+nicknames should also be checked with students. To use real data, replace the floor specs
+(`makeFloor(...)` calls) with the real rooms.
+
+## How the pieces fit
+| File | Job |
+| --- | --- |
+| `src/data/buildings.js` | Buildings, aliases, floors, rooms |
+| `src/lib/search.js` | Nickname + typo-tolerant search |
+| `src/lib/routing.js` | Hallway graph, Dijkstra, written directions |
+| `src/lib/reminders.js` | Status colors, sorting, demo data |
+| `src/components/*` | Screens (Login, Home, SearchOverlay, BuildingView, FloorMap, Reminders, Settings, ArrivalModal) |
+| `src/styles.css` | All styling, including the color-blind palette (`:root[data-cb='on']`) |
+
+## Adding a building
+Add an entry to `buildings` with `id`, `name`, `short`, `aliases` (nicknames), `address`, `blurb`, and
+`floors: [makeFloor(id, level, { top: [...], bottom: [...] })]`. Each room is
+`r(key, name, type, width, keywords)`. Search and routing pick it up automatically.
+
+## Decisions to confirm
+- **Reminder color gaps:** your brief left 1 day and 6 days undefined. Currently: red = missing, today, or tomorrow;
+  yellow = 2 to 5 days; green = 6+ days. Edit `statusFor` in `src/lib/reminders.js`.
+- **"Pop up when you reach the room":** there is no indoor positioning, so the pop-up fires when the user taps
+  "I've arrived" (or reaches the last step). Real positioning would need beacons or Wi-Fi fingerprinting.
+- **Notifications:** reminders show in-app only; no push/browser notifications yet.
+- **Between buildings:** outdoor directions open Google Maps walking directions to the building address.
+- Data is saved in the browser (localStorage); there is no backend or real login.
+
