@@ -1,0 +1,1573 @@
+[
+  {
+    "canonicalId": "76",
+    "name": "100 Antoinette (100antoinette)",
+    "aliases": [
+      "100 Antoinette (100antoinette)",
+      "100 Antoinette"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.36405,
+      "lng": -83.07011
+    }
+  },
+  {
+    "canonicalId": "683",
+    "name": "110 E. Warren Ave",
+    "aliases": [
+      "110 E. Warren Ave"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.357242,
+      "lng": -83.062265
+    }
+  },
+  {
+    "canonicalId": "636",
+    "name": "1200 Holden (1200 Holden)",
+    "aliases": [
+      "1200 Holden (1200 Holden)",
+      "1200 Holden"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.363195,
+      "lng": -83.081405
+    }
+  },
+  {
+    "canonicalId": "77",
+    "name": "3750 Woodward (3750woodward)",
+    "aliases": [
+      "3750 Woodward (3750woodward)",
+      "3750 Woodward"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.34917,
+      "lng": -83.05842
+    }
+  },
+  {
+    "canonicalId": "1629",
+    "name": "4100 John R. (4100 John R.)",
+    "aliases": [
+      "4100 John R. (4100 John R.)",
+      "4100 John R."
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.352867436983665,
+      "lng": -83.05724091
+    }
+  },
+  {
+    "canonicalId": "1273",
+    "name": "5035 Woodward (5035-woodward)",
+    "aliases": [
+      "5035 Woodward (5035-woodward)",
+      "5035 Woodward"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35740307078073,
+      "lng": -83.06495485
+    }
+  },
+  {
+    "canonicalId": "1",
+    "name": "5057 Woodward (5057)",
+    "aliases": [
+      "5057 Woodward (5057)",
+      "5057 Woodward",
+      "5057"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35741,
+      "lng": -83.06532
+    }
+  },
+  {
+    "canonicalId": "1270",
+    "name": "5415 Cass",
+    "aliases": [
+      "5415 Cass"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.359567603406646,
+      "lng": -83.06867327
+    }
+  },
+  {
+    "canonicalId": "78",
+    "name": "5425 Woodward (5425woodward)",
+    "aliases": [
+      "5425 Woodward (5425woodward)",
+      "5425 Woodward"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.36021,
+      "lng": -83.067226
+    }
+  },
+  {
+    "canonicalId": "1274",
+    "name": "5435 Woodward",
+    "aliases": [
+      "5435 Woodward"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.36050856110523,
+      "lng": -83.067196627
+    }
+  },
+  {
+    "canonicalId": "149",
+    "name": "5743 Woodward (5743-woodward)",
+    "aliases": [
+      "5743 Woodward (5743-woodward)",
+      "5743 Woodward"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.362386,
+      "lng": -83.069141
+    }
+  },
+  {
+    "canonicalId": "2",
+    "name": "5957 Woodward (5957woodward)",
+    "aliases": [
+      "5957 Woodward (5957woodward)",
+      "5957 Woodward"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.36461,
+      "lng": -83.07046
+    }
+  },
+  {
+    "canonicalId": "79",
+    "name": "5959 Woodward (5959woodward)",
+    "aliases": [
+      "5959 Woodward (5959woodward)",
+      "5959 Woodward"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.364764,
+      "lng": -83.070144
+    }
+  },
+  {
+    "canonicalId": "501",
+    "name": "60 W. Hancock St (60-w-hancock)",
+    "aliases": [
+      "60 W. Hancock St (60-w-hancock)",
+      "60 W. Hancock St",
+      "60 W Hancock"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.355618,
+      "lng": -83.064819
+    }
+  },
+  {
+    "canonicalId": "1271",
+    "name": "6000 Cass (6000-cass)",
+    "aliases": [
+      "6000 Cass (6000-cass)",
+      "6000 Cass"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.36462435116847,
+      "lng": -83.071092395
+    }
+  },
+  {
+    "canonicalId": "80",
+    "name": "77 W. Canfield (77wcanfield)",
+    "aliases": [
+      "77 W. Canfield (77wcanfield)",
+      "77 W. Canfield"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.351929,
+      "lng": -83.062918
+    }
+  },
+  {
+    "canonicalId": "1276",
+    "name": "87 East Canfield",
+    "aliases": [
+      "87 East Canfield",
+      "87 E. Canfield"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.3534323860574,
+      "lng": -83.0599919613
+    }
+  },
+  {
+    "canonicalId": "3",
+    "name": "Academic/Administrative (AAB)",
+    "aliases": [
+      "Academic/Administrative (AAB)",
+      "Academic/Administrative"
+    ],
+    "code": "AAB",
+    "coordinates": {
+      "lat": 42.36201,
+      "lng": -83.06955
+    }
+  },
+  {
+    "canonicalId": "6",
+    "name": "Alumni House (alumnihouse)",
+    "aliases": [
+      "Alumni House (alumnihouse)",
+      "Alumni House"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.359829,
+      "lng": -83.070187
+    }
+  },
+  {
+    "canonicalId": "1261",
+    "name": "Anthony Wayne Drive Apartments (anthonywayne)",
+    "aliases": [
+      "Anthony Wayne Drive Apartments (anthonywayne)",
+      "Anthony Wayne Drive Apartments",
+      "AWD Apartments"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35747,
+      "lng": -83.07311
+    }
+  },
+  {
+    "canonicalId": "26",
+    "name": "Applebaum Building (APHS)",
+    "aliases": [
+      "Applebaum Building (APHS)",
+      "Applebaum Building"
+    ],
+    "code": "APHS",
+    "coordinates": {
+      "lat": 42.34906,
+      "lng": -83.05566
+    }
+  },
+  {
+    "canonicalId": "7",
+    "name": "Art Building (ART)",
+    "aliases": [
+      "Art Building (ART)",
+      "Art Building"
+    ],
+    "code": "ART",
+    "coordinates": {
+      "lat": 42.35913,
+      "lng": -83.0702
+    }
+  },
+  {
+    "canonicalId": "35",
+    "name": "Barbara Ann Karmanos Cancer Institute (KCI)",
+    "aliases": [
+      "Barbara Ann Karmanos Cancer Institute (KCI)",
+      "Barbara Ann Karmanos Cancer Institute",
+      "Karmanos Cancer Institute"
+    ],
+    "code": "KCI",
+    "coordinates": {
+      "lat": 42.35065,
+      "lng": -83.05685
+    }
+  },
+  {
+    "canonicalId": "9",
+    "name": "Beecher House (beecherhouse)",
+    "aliases": [
+      "Beecher House (beecherhouse)",
+      "Beecher House"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.3611,
+      "lng": -83.06778
+    }
+  },
+  {
+    "canonicalId": "10",
+    "name": "Bioengineering (BIOE)",
+    "aliases": [
+      "Bioengineering (BIOE)",
+      "Bioengineering"
+    ],
+    "code": "BIOE",
+    "coordinates": {
+      "lat": 42.3536,
+      "lng": -83.07134
+    }
+  },
+  {
+    "canonicalId": "11",
+    "name": "Biological Sciences (BIO)",
+    "aliases": [
+      "Biological Sciences (BIO)",
+      "Biological Sciences"
+    ],
+    "code": "BIO",
+    "coordinates": {
+      "lat": 42.35588,
+      "lng": -83.06967
+    }
+  },
+  {
+    "canonicalId": "1209",
+    "name": "Business, Mike Ilitch School of (MIKE)",
+    "aliases": [
+      "Business, Mike Ilitch School of (MIKE)",
+      "Business, Mike Ilitch School of",
+      "Mike Ilitch School of Business"
+    ],
+    "code": "MIKE",
+    "coordinates": {
+      "lat": 42.34285346619705,
+      "lng": -83.05531454232789
+    }
+  },
+  {
+    "canonicalId": "13",
+    "name": "C. S. Mott Center for Human Growth and Development (mottcenter)",
+    "aliases": [
+      "C. S. Mott Center for Human Growth and Development (mottcenter)",
+      "C. S. Mott Center for Human Growth and Development",
+      "Mott Center"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35756,
+      "lng": -83.06044
+    }
+  },
+  {
+    "canonicalId": "81",
+    "name": "Chatsworth Suites (chatsworth)",
+    "aliases": [
+      "Chatsworth Suites (chatsworth)",
+      "Chatsworth Suites"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35759,
+      "lng": -83.07115
+    }
+  },
+  {
+    "canonicalId": "15",
+    "name": "Chemistry (CHEM)",
+    "aliases": [
+      "Chemistry (CHEM)",
+      "Chemistry"
+    ],
+    "code": "CHEM",
+    "coordinates": {
+      "lat": 42.35661,
+      "lng": -83.0684
+    }
+  },
+  {
+    "canonicalId": "16",
+    "name": "Children's Center (childrencenter)",
+    "aliases": [
+      "Children's Center (childrencenter)",
+      "Children's Center"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.34983,
+      "lng": -83.0612
+    }
+  },
+  {
+    "canonicalId": "17",
+    "name": "Children's Hospital of Michigan (CHIL)",
+    "aliases": [
+      "Children's Hospital of Michigan (CHIL)",
+      "Children's Hospital of Michigan"
+    ],
+    "code": "CHIL",
+    "coordinates": {
+      "lat": 42.351925,
+      "lng": -83.054866
+    }
+  },
+  {
+    "canonicalId": "58",
+    "name": "Cohn (COHN)",
+    "aliases": [
+      "Cohn (COHN)",
+      "Cohn"
+    ],
+    "code": "COHN",
+    "coordinates": {
+      "lat": 42.36064,
+      "lng": -83.0698
+    }
+  },
+  {
+    "canonicalId": "20",
+    "name": "Community Arts (COMM)",
+    "aliases": [
+      "Community Arts (COMM)",
+      "Community Arts"
+    ],
+    "code": "COMM",
+    "coordinates": {
+      "lat": 42.359561,
+      "lng": -83.069699
+    }
+  },
+  {
+    "canonicalId": "144",
+    "name": "Computing Services Center (5925-woodward)",
+    "aliases": [
+      "Computing Services Center (5925-woodward)",
+      "Computing Services Center"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.364245,
+      "lng": -83.069656
+    }
+  },
+  {
+    "canonicalId": "21",
+    "name": "Danto Engineering Development Center (danto)",
+    "aliases": [
+      "Danto Engineering Development Center (danto)",
+      "Danto Engineering Development Center"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.355668,
+      "lng": -83.07074
+    }
+  },
+  {
+    "canonicalId": "19",
+    "name": "Education, College of (EDUC)",
+    "aliases": [
+      "Education, College of (EDUC)",
+      "Education, College of",
+      "College of Education"
+    ],
+    "code": "EDUC",
+    "coordinates": {
+      "lat": 42.358974,
+      "lng": -83.07147
+    }
+  },
+  {
+    "canonicalId": "23",
+    "name": "Elliman Building (elliman)",
+    "aliases": [
+      "Elliman Building (elliman)",
+      "Elliman Building"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35512,
+      "lng": -83.05696
+    }
+  },
+  {
+    "canonicalId": "25",
+    "name": "Engineering Technology - Engineering (ETB)",
+    "aliases": [
+      "Engineering Technology - Engineering (ETB)",
+      "Engineering Technology - Engineering",
+      "Engineering Technology"
+    ],
+    "code": "ETB",
+    "coordinates": {
+      "lat": 42.353797,
+      "lng": -83.072028
+    }
+  },
+  {
+    "canonicalId": "82",
+    "name": "Engineering, James and Patricia Anderson College of (ENGG)",
+    "aliases": [
+      "Engineering, James and Patricia Anderson College of (ENGG)",
+      "Engineering, James and Patricia Anderson College of",
+      "Engineering"
+    ],
+    "code": "ENGG",
+    "coordinates": {
+      "lat": 42.355668,
+      "lng": -83.07074
+    }
+  },
+  {
+    "canonicalId": "83",
+    "name": "Facilities Planning & Management (FPM) (facilities)",
+    "aliases": [
+      "Facilities Planning & Management (FPM) (facilities)",
+      "Facilities Planning & Management (FPM)",
+      "FP&M"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.360289,
+      "lng": -83.068733
+    }
+  },
+  {
+    "canonicalId": "27",
+    "name": "Faculty/Administration (FAB)",
+    "aliases": [
+      "Faculty/Administration (FAB)",
+      "Faculty/Administration"
+    ],
+    "code": "FAB",
+    "coordinates": {
+      "lat": 42.358689,
+      "lng": -83.072607
+    }
+  },
+  {
+    "canonicalId": "14",
+    "name": "Freer House (FRER)",
+    "aliases": [
+      "Freer House (FRER)",
+      "Freer House"
+    ],
+    "code": "FRER",
+    "coordinates": {
+      "lat": 42.361847,
+      "lng": -83.066228
+    }
+  },
+  {
+    "canonicalId": "29",
+    "name": "General Lectures (LECT)",
+    "aliases": [
+      "General Lectures (LECT)",
+      "General Lectures"
+    ],
+    "code": "LECT",
+    "coordinates": {
+      "lat": 42.355082,
+      "lng": -83.072135
+    }
+  },
+  {
+    "canonicalId": "34",
+    "name": "Harper University Hospital (HARP)",
+    "aliases": [
+      "Harper University Hospital (HARP)",
+      "Harper University Hospital"
+    ],
+    "code": "HARP",
+    "coordinates": {
+      "lat": 42.35245,
+      "lng": -83.05693
+    }
+  },
+  {
+    "canonicalId": "1272",
+    "name": "Harwell Field (harwell-field)",
+    "aliases": [
+      "Harwell Field (harwell-field)",
+      "Harwell Field"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.356310997175754,
+      "lng": -83.07545232
+    }
+  },
+  {
+    "canonicalId": "67",
+    "name": "Hilberry Gateway (HIL)",
+    "aliases": [
+      "Hilberry Gateway (HIL)",
+      "Hilberry Gateway"
+    ],
+    "code": "HIL",
+    "coordinates": {
+      "lat": 42.353867565035095,
+      "lng": -83.06635928
+    }
+  },
+  {
+    "canonicalId": "33",
+    "name": "Hutzel Hospital (HARP)",
+    "aliases": [
+      "Hutzel Hospital (HARP)",
+      "Hutzel Hospital"
+    ],
+    "code": "HARP",
+    "coordinates": {
+      "lat": 42.35112,
+      "lng": -83.05608
+    }
+  },
+  {
+    "canonicalId": "1018",
+    "name": "Integrative Biosciences Center",
+    "aliases": [
+      "Integrative Biosciences Center",
+      "IBio"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.365915,
+      "lng": -83.071547
+    }
+  },
+  {
+    "canonicalId": "44",
+    "name": "Jacob House (JAC)",
+    "aliases": [
+      "Jacob House (JAC)",
+      "Jacob House"
+    ],
+    "code": "JAC",
+    "coordinates": {
+      "lat": 42.35878,
+      "lng": -83.06943
+    }
+  },
+  {
+    "canonicalId": "51",
+    "name": "Knapp Building (KNAP)",
+    "aliases": [
+      "Knapp Building (KNAP)",
+      "Knapp Building"
+    ],
+    "code": "KNAP",
+    "coordinates": {
+      "lat": 42.361974,
+      "lng": -83.06575
+    }
+  },
+  {
+    "canonicalId": "36",
+    "name": "Kresge Eye Institute (kresgeeyeinstitute)",
+    "aliases": [
+      "Kresge Eye Institute (kresgeeyeinstitute)",
+      "Kresge Eye Institute"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35817,
+      "lng": -83.05666
+    }
+  },
+  {
+    "canonicalId": "1418",
+    "name": "Kresge Library",
+    "aliases": [
+      "Kresge Library"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.358367,
+      "lng": -83.069682
+    }
+  },
+  {
+    "canonicalId": "32",
+    "name": "Lande Building (land)",
+    "aliases": [
+      "Lande Building (land)",
+      "Lande Building"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35491,
+      "lng": -83.0546
+    }
+  },
+  {
+    "canonicalId": "1294",
+    "name": "Lande Building - Lactation support room",
+    "aliases": [
+      "Lande Building - Lactation support room"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35475,
+      "lng": -83.0544
+    }
+  },
+  {
+    "canonicalId": "37",
+    "name": "Law Classroom (lawclassroom)",
+    "aliases": [
+      "Law Classroom (lawclassroom)",
+      "Law Classroom"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.36036,
+      "lng": -83.07032
+    }
+  },
+  {
+    "canonicalId": "38",
+    "name": "Law Library, Arthur Neef (LAWL)",
+    "aliases": [
+      "Law Library, Arthur Neef (LAWL)",
+      "Law Library, Arthur Neef",
+      "Law Library"
+    ],
+    "code": "LAWL",
+    "coordinates": {
+      "lat": 42.36016,
+      "lng": -83.07105
+    }
+  },
+  {
+    "canonicalId": "39",
+    "name": "Law School Building (LAW)",
+    "aliases": [
+      "Law School Building (LAW)",
+      "Law School Building",
+      "Law School"
+    ],
+    "code": "LAW",
+    "coordinates": {
+      "lat": 42.36055,
+      "lng": -83.07087
+    }
+  },
+  {
+    "canonicalId": "85",
+    "name": "Leon H. Atchison Residence Hall (southres)",
+    "aliases": [
+      "Leon H. Atchison Residence Hall (southres)",
+      "Leon H. Atchison Residence Hall",
+      "Atchison Hall"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35605,
+      "lng": -83.07144
+    }
+  },
+  {
+    "canonicalId": "41",
+    "name": "Life Science (LIFE)",
+    "aliases": [
+      "Life Science (LIFE)",
+      "Life Science"
+    ],
+    "code": "LIFE",
+    "coordinates": {
+      "lat": 42.35581,
+      "lng": -83.06856
+    }
+  },
+  {
+    "canonicalId": "28",
+    "name": "Linsell House (LINS)",
+    "aliases": [
+      "Linsell House (LINS)",
+      "Linsell House"
+    ],
+    "code": "LINS",
+    "coordinates": {
+      "lat": 42.356551,
+      "lng": -83.069229
+    }
+  },
+  {
+    "canonicalId": "65",
+    "name": "M. Roy Wilson State Hall (STAT)",
+    "aliases": [
+      "M. Roy Wilson State Hall (STAT)",
+      "M. Roy Wilson State Hall",
+      "State Hall"
+    ],
+    "code": "STAT",
+    "coordinates": {
+      "lat": 42.35736,
+      "lng": -83.06818
+    }
+  },
+  {
+    "canonicalId": "86",
+    "name": "Mackenzie House (mackenzine)",
+    "aliases": [
+      "Mackenzie House (mackenzine)",
+      "Mackenzie House"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.354145,
+      "lng": -83.066029
+    }
+  },
+  {
+    "canonicalId": "5",
+    "name": "Manoogian Hall (MANO)",
+    "aliases": [
+      "Manoogian Hall (MANO)",
+      "Manoogian Hall",
+      "Manoogian"
+    ],
+    "code": "MANO",
+    "coordinates": {
+      "lat": 42.35468,
+      "lng": -83.07298
+    }
+  },
+  {
+    "canonicalId": "42",
+    "name": "Manufacturing Engineering (MANU)",
+    "aliases": [
+      "Manufacturing Engineering (MANU)",
+      "Manufacturing Engineering"
+    ],
+    "code": "MANU",
+    "coordinates": {
+      "lat": 42.353234,
+      "lng": -83.072028
+    }
+  },
+  {
+    "canonicalId": "43",
+    "name": "Matthaei Physical Education Center (MATT)",
+    "aliases": [
+      "Matthaei Physical Education Center (MATT)",
+      "Matthaei Physical Education Center",
+      "Matthaei"
+    ],
+    "code": "MATT",
+    "coordinates": {
+      "lat": 42.35499,
+      "lng": -83.07622
+    }
+  },
+  {
+    "canonicalId": "45",
+    "name": "Mazurek Medical Education Commons (medicallibrary)",
+    "aliases": [
+      "Mazurek Medical Education Commons (medicallibrary)",
+      "Mazurek Medical Education Commons"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.353941,
+      "lng": -83.057211
+    }
+  },
+  {
+    "canonicalId": "46",
+    "name": "McGregor Memorial Conference Center (mcgregor)",
+    "aliases": [
+      "McGregor Memorial Conference Center (mcgregor)",
+      "McGregor Memorial Conference Center",
+      "McGregor Center"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35953,
+      "lng": -83.0707
+    }
+  },
+  {
+    "canonicalId": "48",
+    "name": "Mort Harris Recreation and Fitness Center (fitness)",
+    "aliases": [
+      "Mort Harris Recreation and Fitness Center (fitness)",
+      "Mort Harris Recreation and Fitness Center",
+      "Recreation and Fitness Center"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35797,
+      "lng": -83.06997
+    }
+  },
+  {
+    "canonicalId": "49",
+    "name": "Mortuary Science (MORT)",
+    "aliases": [
+      "Mortuary Science (MORT)",
+      "Mortuary Science"
+    ],
+    "code": "MORT",
+    "coordinates": {
+      "lat": 42.360321,
+      "lng": -83.067708
+    }
+  },
+  {
+    "canonicalId": "1074",
+    "name": "Multipurpose Indoor Facility",
+    "aliases": [
+      "Multipurpose Indoor Facility"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.356145,
+      "lng": -83.076457
+    }
+  },
+  {
+    "canonicalId": "1250",
+    "name": "Natural History Museum",
+    "aliases": [
+      "Natural History Museum"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35588,
+      "lng": -83.06967
+    }
+  },
+  {
+    "canonicalId": "50",
+    "name": "Old Main (MAIN)",
+    "aliases": [
+      "Old Main (MAIN)",
+      "Old Main"
+    ],
+    "code": "MAIN",
+    "coordinates": {
+      "lat": 42.3551,
+      "lng": -83.0673
+    }
+  },
+  {
+    "canonicalId": "89",
+    "name": "Parking Structure 1 (parking1)",
+    "aliases": [
+      "Parking Structure 1 (parking1)",
+      "Parking Structure 1",
+      "Structure 1"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.36167,
+      "lng": -83.07094
+    }
+  },
+  {
+    "canonicalId": "90",
+    "name": "Parking Structure 2 (parking2)",
+    "aliases": [
+      "Parking Structure 2 (parking2)",
+      "Parking Structure 2",
+      "Structure 2"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35658,
+      "lng": -83.07386
+    }
+  },
+  {
+    "canonicalId": "91",
+    "name": "Parking Structure 3 (parking3)",
+    "aliases": [
+      "Parking Structure 3 (parking3)",
+      "Parking Structure 3",
+      "Structure 3"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35758,
+      "lng": -83.06329
+    }
+  },
+  {
+    "canonicalId": "92",
+    "name": "Parking Structure 4 (parkingstructure4)",
+    "aliases": [
+      "Parking Structure 4 (parkingstructure4)",
+      "Parking Structure 4",
+      "Structure 4"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35593,
+      "lng": -83.05528
+    }
+  },
+  {
+    "canonicalId": "93",
+    "name": "Parking Structure 5 (parking5)",
+    "aliases": [
+      "Parking Structure 5 (parking5)",
+      "Parking Structure 5",
+      "Structure 5"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35823,
+      "lng": -83.07418
+    }
+  },
+  {
+    "canonicalId": "94",
+    "name": "Parking Structure 6 (parking6)",
+    "aliases": [
+      "Parking Structure 6 (parking6)",
+      "Parking Structure 6",
+      "Structure 6"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35701,
+      "lng": -83.06634
+    }
+  },
+  {
+    "canonicalId": "95",
+    "name": "Parking Structure 7 (parking7)",
+    "aliases": [
+      "Parking Structure 7 (parking7)",
+      "Parking Structure 7",
+      "Structure 7"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.348908,
+      "lng": -83.05735
+    }
+  },
+  {
+    "canonicalId": "96",
+    "name": "Parking Structure 8 (parking8)",
+    "aliases": [
+      "Parking Structure 8 (parking8)",
+      "Parking Structure 8",
+      "Structure 8"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.353752,
+      "lng": -83.063862
+    }
+  },
+  {
+    "canonicalId": "52",
+    "name": "Physics (PHY)",
+    "aliases": [
+      "Physics (PHY)",
+      "Physics"
+    ],
+    "code": "PHY",
+    "coordinates": {
+      "lat": 42.354018,
+      "lng": -83.069575
+    }
+  },
+  {
+    "canonicalId": "1268",
+    "name": "Poison Center",
+    "aliases": [
+      "Poison Center"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35491,
+      "lng": -83.0546
+    }
+  },
+  {
+    "canonicalId": "53",
+    "name": "Police Department (Public Safety) (policedepartment)",
+    "aliases": [
+      "Police Department (Public Safety) (policedepartment)",
+      "Police Department (Public Safety)",
+      "Police"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.36503,
+      "lng": -83.07145
+    }
+  },
+  {
+    "canonicalId": "47",
+    "name": "Prentis Building (PREN)",
+    "aliases": [
+      "Prentis Building (PREN)",
+      "Prentis Building",
+      "Prentis"
+    ],
+    "code": "PREN",
+    "coordinates": {
+      "lat": 42.35792,
+      "lng": -83.06817
+    }
+  },
+  {
+    "canonicalId": "54",
+    "name": "Purdy/Kresge Library (PURD)",
+    "aliases": [
+      "Purdy/Kresge Library (PURD)",
+      "Purdy/Kresge Library"
+    ],
+    "code": "PURD",
+    "coordinates": {
+      "lat": 42.358367,
+      "lng": -83.069682
+    }
+  },
+  {
+    "canonicalId": "55",
+    "name": "Rackham (RACK)",
+    "aliases": [
+      "Rackham (RACK)",
+      "Rackham"
+    ],
+    "code": "RACK",
+    "coordinates": {
+      "lat": 42.35794,
+      "lng": -83.06351
+    }
+  },
+  {
+    "canonicalId": "74",
+    "name": "Rands House (RAND)",
+    "aliases": [
+      "Rands House (RAND)",
+      "Rands House"
+    ],
+    "code": "RAND",
+    "coordinates": {
+      "lat": 42.35843,
+      "lng": -83.068475
+    }
+  },
+  {
+    "canonicalId": "22",
+    "name": "Receiving Hospital (DRH)",
+    "aliases": [
+      "Receiving Hospital (DRH)",
+      "Receiving Hospital"
+    ],
+    "code": "DRH",
+    "coordinates": {
+      "lat": 42.35358,
+      "lng": -83.0542
+    }
+  },
+  {
+    "canonicalId": "56",
+    "name": "Rehabilitation Institute (REHA)",
+    "aliases": [
+      "Rehabilitation Institute (REHA)",
+      "Rehabilitation Institute"
+    ],
+    "code": "REHA",
+    "coordinates": {
+      "lat": 42.349828,
+      "lng": -83.055628
+    }
+  },
+  {
+    "canonicalId": "24",
+    "name": "Schaver (MUSI)",
+    "aliases": [
+      "Schaver (MUSI)",
+      "Schaver"
+    ],
+    "code": "MUSI",
+    "coordinates": {
+      "lat": 42.359865,
+      "lng": -83.069554
+    }
+  },
+  {
+    "canonicalId": "60",
+    "name": "Science Hall (SCI)",
+    "aliases": [
+      "Science Hall (SCI)",
+      "Science Hall",
+      "Science"
+    ],
+    "code": "SCI",
+    "coordinates": {
+      "lat": 42.35633,
+      "lng": -83.06764
+    }
+  },
+  {
+    "canonicalId": "30",
+    "name": "Scott Hall (SCOT)",
+    "aliases": [
+      "Scott Hall (SCOT)",
+      "Scott Hall"
+    ],
+    "code": "SCOT",
+    "coordinates": {
+      "lat": 42.354438,
+      "lng": -83.055939
+    }
+  },
+  {
+    "canonicalId": "1295",
+    "name": "Scott Hall - Lactation support room",
+    "aliases": [
+      "Scott Hall - Lactation support room"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.354438,
+      "lng": -83.055939
+    }
+  },
+  {
+    "canonicalId": "61",
+    "name": "Shapero Hall (SHAR)",
+    "aliases": [
+      "Shapero Hall (SHAR)",
+      "Shapero Hall",
+      "Shapero"
+    ],
+    "code": "SHAR",
+    "coordinates": {
+      "lat": 42.35977,
+      "lng": -83.0722
+    }
+  },
+  {
+    "canonicalId": "40",
+    "name": "Simons Building (SIM)",
+    "aliases": [
+      "Simons Building (SIM)",
+      "Simons Building"
+    ],
+    "code": "SIM",
+    "coordinates": {
+      "lat": 42.35582,
+      "lng": -83.06425
+    }
+  },
+  {
+    "canonicalId": "62",
+    "name": "Skillman (SKIL)",
+    "aliases": [
+      "Skillman (SKIL)",
+      "Skillman"
+    ],
+    "code": "SKIL",
+    "coordinates": {
+      "lat": 42.36242,
+      "lng": -83.06585
+    }
+  },
+  {
+    "canonicalId": "1031",
+    "name": "Social Work, School of",
+    "aliases": [
+      "Social Work, School of",
+      "Social Work"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.360704,
+      "lng": -83.067551
+    }
+  },
+  {
+    "canonicalId": "1075",
+    "name": "Softball Stadium",
+    "aliases": [
+      "Softball Stadium"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.354407,
+      "lng": -83.077557
+    }
+  },
+  {
+    "canonicalId": "63",
+    "name": "St. Andrew's (standrews)",
+    "aliases": [
+      "St. Andrew's (standrews)",
+      "St. Andrew's"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35558,
+      "lng": -83.07305
+    }
+  },
+  {
+    "canonicalId": "64",
+    "name": "Stadium Auxiliary (stadiumaux)",
+    "aliases": [
+      "Stadium Auxiliary (stadiumaux)",
+      "Stadium Auxiliary"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35553,
+      "lng": -83.07896
+    }
+  },
+  {
+    "canonicalId": "59",
+    "name": "STEM Innovation Learning Center (SILC) (STEM)",
+    "aliases": [
+      "STEM Innovation Learning Center (SILC) (STEM)",
+      "STEM Innovation Learning Center (SILC)",
+      "STEM"
+    ],
+    "code": "STEM",
+    "coordinates": {
+      "lat": 42.35613,
+      "lng": -83.06884
+    }
+  },
+  {
+    "canonicalId": "66",
+    "name": "Student Center (SCB)",
+    "aliases": [
+      "Student Center (SCB)",
+      "Student Center"
+    ],
+    "code": "SCB",
+    "coordinates": {
+      "lat": 42.35812,
+      "lng": -83.07103
+    }
+  },
+  {
+    "canonicalId": "355",
+    "name": "TechTown (techtown)",
+    "aliases": [
+      "TechTown (techtown)",
+      "TechTown"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.36506,
+      "lng": -83.07318
+    }
+  },
+  {
+    "canonicalId": "69",
+    "name": "Thompson Home (THOM)",
+    "aliases": [
+      "Thompson Home (THOM)",
+      "Thompson Home"
+    ],
+    "code": "THOM",
+    "coordinates": {
+      "lat": 42.35473,
+      "lng": -83.06556
+    }
+  },
+  {
+    "canonicalId": "1005",
+    "name": "Tierney Alumni House",
+    "aliases": [
+      "Tierney Alumni House",
+      "Tierney House"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.361547,
+      "lng": -83.066798
+    }
+  },
+  {
+    "canonicalId": "744",
+    "name": "Tolan Park Medical Building",
+    "aliases": [
+      "Tolan Park Medical Building",
+      "Tolan Park"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35247077705792,
+      "lng": -83.05155247449875
+    }
+  },
+  {
+    "canonicalId": "4",
+    "name": "Tom Adams Field (STAD)",
+    "aliases": [
+      "Tom Adams Field (STAD)",
+      "Tom Adams Field"
+    ],
+    "code": "STAD",
+    "coordinates": {
+      "lat": 42.35584,
+      "lng": -83.07837
+    }
+  },
+  {
+    "canonicalId": "68",
+    "name": "Towers Residential Suites (newresidence)",
+    "aliases": [
+      "Towers Residential Suites (newresidence)",
+      "Towers Residential Suites"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35809,
+      "lng": -83.07198
+    }
+  },
+  {
+    "canonicalId": "70",
+    "name": "Undergraduate Library, David Adamany (UGLB)",
+    "aliases": [
+      "Undergraduate Library, David Adamany (UGLB)",
+      "Undergraduate Library, David Adamany",
+      "UGL"
+    ],
+    "code": "UGLB",
+    "coordinates": {
+      "lat": 42.35652,
+      "lng": -83.07045
+    }
+  },
+  {
+    "canonicalId": "31",
+    "name": "University Auditorium",
+    "aliases": [
+      "University Auditorium"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.3577,
+      "lng": -83.06868
+    }
+  },
+  {
+    "canonicalId": "71",
+    "name": "University Health Center (UHC)",
+    "aliases": [
+      "University Health Center (UHC)",
+      "University Health Center"
+    ],
+    "code": "UHC",
+    "coordinates": {
+      "lat": 42.35335,
+      "lng": -83.05554
+    }
+  },
+  {
+    "canonicalId": "97",
+    "name": "University Tower (unitower)",
+    "aliases": [
+      "University Tower (unitower)",
+      "University Tower"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35285,
+      "lng": -83.06423
+    }
+  },
+  {
+    "canonicalId": "72",
+    "name": "VA Medical Center (VA)",
+    "aliases": [
+      "VA Medical Center (VA)",
+      "VA Medical Center"
+    ],
+    "code": "VA",
+    "coordinates": {
+      "lat": 42.35567,
+      "lng": -83.05923
+    }
+  },
+  {
+    "canonicalId": "57",
+    "name": "Walter P. Reuther Library, Archives of Labor and Urban Affairs (REU)",
+    "aliases": [
+      "Walter P. Reuther Library, Archives of Labor and Urban Affairs (REU)",
+      "Walter P. Reuther Library, Archives of Labor and Urban Affairs",
+      "Reuther Library"
+    ],
+    "code": "REU",
+    "coordinates": {
+      "lat": 42.358898,
+      "lng": -83.069007
+    }
+  },
+  {
+    "canonicalId": "1388",
+    "name": "Wayne State Fieldhouse (Fieldhouse)",
+    "aliases": [
+      "Wayne State Fieldhouse (Fieldhouse)",
+      "Wayne State Fieldhouse"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35335910995014,
+      "lng": -83.07765289379304
+    }
+  },
+  {
+    "canonicalId": "73",
+    "name": "Welcome Center (welcome)",
+    "aliases": [
+      "Welcome Center (welcome)",
+      "Welcome Center"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35698,
+      "lng": -83.06518
+    }
+  },
+  {
+    "canonicalId": "8",
+    "name": "WSU Bookstore (wsubookstore)",
+    "aliases": [
+      "WSU Bookstore (wsubookstore)",
+      "WSU Bookstore",
+      "Bookstore"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.356356,
+      "lng": -83.066659
+    }
+  },
+  {
+    "canonicalId": "98",
+    "name": "Yousif B. Ghafari Hall (northres)",
+    "aliases": [
+      "Yousif B. Ghafari Hall (northres)",
+      "Yousif B. Ghafari Hall",
+      "Ghafari Hall"
+    ],
+    "code": null,
+    "coordinates": {
+      "lat": 42.35663,
+      "lng": -83.07165
+    }
+  }
+]

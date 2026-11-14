@@ -1,0 +1,796 @@
+{
+  "sourceUrl": "https://tech.wayne.edu/help/classroom-directory",
+  "capturedAt": "2026-11-14",
+  "floorLevelNote": "For State Hall and Old Main, floorLevel is inferred from the first digit of four-digit room numbers. For UGL named spaces, published floors are used when available; other named-space floors are unknown.",
+  "classrooms": [
+    {
+      "buildingId": "50",
+      "roomNumber": "0103",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-103"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0105",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-105"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0106",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-106"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0111",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-111"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0116",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-116"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0121",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-121"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0129",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-129"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0134",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-134"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0137",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-137"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0143",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-143"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0145",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-145"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0151",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-151"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0159",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-159"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0162",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-162"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0165",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-165"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0171",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-171"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "0174",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-174"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1107",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1107"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1111",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1111"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1115",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1115"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1119",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1119"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1129",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1129"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1133",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1133"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1134",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1134"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1137",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1137"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1151",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1151"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1162",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1162"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1163",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1163"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1165",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1165"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1168",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1168"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1171",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1171"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1172",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1172"
+    },
+    {
+      "buildingId": "50",
+      "roomNumber": "1305",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/old-main-1305"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "0201",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-201"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "0203",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-203"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "0205",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-205"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "0207",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-207"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "0209",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-209"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "0211",
+      "name": null,
+      "floorLevel": 0,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-211"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "1101",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-1101"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "1104",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-1104"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "1109",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-1109"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "1113",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-1113"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "1114",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-1114"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "1116",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-1116"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "1117",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-1117"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "1201",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-1201"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "1205",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-1205"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "1206",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-1206"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "1209",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-1209"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "1216",
+      "name": null,
+      "floorLevel": 1,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-1216"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2104",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2104"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2108",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2108"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2109",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2109"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2111",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2111"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2113",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2113"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2114",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2114"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2115",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2115"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2116",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2116"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2117",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2117"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2118",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2118"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2120",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2120"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2201",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2201"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2205",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2205"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2206",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2206"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2207",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2207"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2209",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2209"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2211",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2211"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "2216",
+      "name": null,
+      "floorLevel": 2,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-2216"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "3104",
+      "name": null,
+      "floorLevel": 3,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-3104"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "3108",
+      "name": null,
+      "floorLevel": 3,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-3108"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "3109",
+      "name": null,
+      "floorLevel": 3,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-3109"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "3111",
+      "name": null,
+      "floorLevel": 3,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-3111"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "3113",
+      "name": null,
+      "floorLevel": 3,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-3113"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "3114",
+      "name": null,
+      "floorLevel": 3,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-3114"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "3115",
+      "name": null,
+      "floorLevel": 3,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-3115"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "3116",
+      "name": null,
+      "floorLevel": 3,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-3116"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "3117",
+      "name": null,
+      "floorLevel": 3,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-3117"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "3201",
+      "name": null,
+      "floorLevel": 3,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-3201"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "3206",
+      "name": null,
+      "floorLevel": 3,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-3206"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "3209",
+      "name": null,
+      "floorLevel": 3,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-3209"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "3211",
+      "name": null,
+      "floorLevel": 3,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-3211"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "3216",
+      "name": null,
+      "floorLevel": 3,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-3216"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "4110",
+      "name": null,
+      "floorLevel": 4,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-4110"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "4112",
+      "name": null,
+      "floorLevel": 4,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-4112"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "4114",
+      "name": null,
+      "floorLevel": 4,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-4114"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "4116",
+      "name": null,
+      "floorLevel": 4,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-4116"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "4118",
+      "name": null,
+      "floorLevel": 4,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-4118"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "4210",
+      "name": null,
+      "floorLevel": 4,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-4210"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "4214",
+      "name": null,
+      "floorLevel": 4,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-4214"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "4218",
+      "name": null,
+      "floorLevel": 4,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-4218"
+    },
+    {
+      "buildingId": "65",
+      "roomNumber": "4222",
+      "name": null,
+      "floorLevel": 4,
+      "floorLevelBasis": "inferred-from-leading-digit",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/state-4222"
+    },
+    {
+      "buildingId": "70",
+      "roomNumber": null,
+      "name": "Bernath Auditorium",
+      "floorLevel": 1,
+      "floorLevelBasis": "published-location",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/ugl-bernath-auditorium",
+      "floorSourceUrl": "https://library.wayne.edu/spaces-tech/reservable"
+    },
+    {
+      "buildingId": "70",
+      "roomNumber": null,
+      "name": "Bernath Seminar Room",
+      "floorLevel": 3,
+      "floorLevelBasis": "published-location",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/ugl-bernath-seminar-room",
+      "floorSourceUrl": "https://library.wayne.edu/spaces-tech/reservable"
+    },
+    {
+      "buildingId": "70",
+      "roomNumber": null,
+      "name": "Community Room",
+      "floorLevel": 3,
+      "floorLevelBasis": "published-location",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/ugl-community-room",
+      "floorSourceUrl": "https://library.wayne.edu/spaces-tech/reservable"
+    },
+    {
+      "buildingId": "70",
+      "roomNumber": null,
+      "name": "Lab A",
+      "floorLevel": 1,
+      "floorLevelBasis": "published-location",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/ugl-lab-a",
+      "floorSourceUrl": "https://library.wayne.edu/spaces-tech/reservable"
+    },
+    {
+      "buildingId": "70",
+      "roomNumber": null,
+      "name": "Lab B",
+      "floorLevel": null,
+      "floorLevelBasis": "not-published",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/ugl-lab-b"
+    },
+    {
+      "buildingId": "70",
+      "roomNumber": null,
+      "name": "Lab C",
+      "floorLevel": 3,
+      "floorLevelBasis": "published-location",
+      "directoryUrl": "https://tech.wayne.edu/help/classroom-directory/ugl-lab-c",
+      "floorSourceUrl": "https://library.wayne.edu/spaces-tech/reservable"
+    }
+  ]
+}
